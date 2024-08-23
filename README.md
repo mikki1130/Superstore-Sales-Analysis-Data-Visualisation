@@ -32,14 +32,15 @@ The Technology category emerged as the leading performer in both sales and profi
 * Orders by Customer Segment: The Consumer segment was the largest customer base. Superstore should create tailored marketing campaigns targeting this segment to increase sales. The Corporate and Home Office segments with smaller customer bases, present growth opportunities with focused B2B strategies.
 * Orders by Shipping Preferences: Most customers preferred Standard Class shipping, indicating that they might prioritize cost savings over faster delivery.
 * Top Three Customers by Order: Raymond Buch, Sean Miler, and Tamara Chand were the most frequent shoppers with a max of 6 orders for the past 4 years. This pattern suggests a potential gap in customer loyalty. To address this, Superstore could introduce exclusive offers and a loyalty program, adjust pricing for regular customers, and actively seek their feedback to refine the shopping experience. Engaging customers through educational content on social media, newsletters, and tailored content for different segments could further foster loyalty and retention.
-  ![image](https://github.com/user-attachments/assets/4b549681-c5e0-4dd8-bfda-0e987808e0e3)
+  ![image](https://github.com/user-attachments/assets/487fc14f-64bd-4235-8008-c1719321f343)
 
-# Top Three Cities by Sales Over Time:
-Los Angeles and New York City have consistently led in sales, but while Los Angeles saw a slight decline in 2022, New York City surged. Seattle, on the other hand, experienced a significant rebound in 2022.
+
+  *Top Three Cities by Sales Over Time:*
+* Los Angeles and New York City have consistently led in sales, but while Los Angeles saw a slight decline in 2022, New York City surged. Seattle, on the other hand, experienced a significant rebound in 2022.
 # Bottom Three Cities by Sales Over Time
-Philadelphia shows a promising upward trajectory, contrasting with the relatively stagnant sales in Houston and San Antonio.
+* Philadelphia shows a promising upward trajectory, contrasting with the relatively stagnant sales in Houston and San Antonio.
 # Top 10 Cities by Quantity
-New York City and Los Angeles dominate in product quantities across all categories.
+* New York City and Los Angeles dominate in product quantities across all categories.
 # Quantity by Sub-Category and State
 Binders, Paper, and Furnishings are consistently popular across California, New York, and Washington.
 ![image](https://github.com/user-attachments/assets/41420c36-3414-4c4f-854e-50347176c646)
