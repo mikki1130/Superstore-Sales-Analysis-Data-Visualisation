@@ -1,4 +1,3 @@
-<img width="598" alt="image" src="https://github.com/user-attachments/assets/4a119262-ecd2-4ba3-9c03-1cdf5a8c69d5"># Superstore-Sales-Analysis-Data-Visualisation
 Superstore, a fictional retail entity in the U.S., specializes in furniture, office supplies, and technology products. This report provides an in-depth analysis of the company's performance from 2019 to 2022, highlighting key areas of strength and potential opportunities for growth.
 
 #EXECUTIVE OVERVIEW:
